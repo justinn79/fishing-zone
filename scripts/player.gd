@@ -32,3 +32,5 @@ func _physics_process(delta: float) -> void:
 		player_animation.flip_h = false
 	elif direction < 0:
 		player_animation.flip_h = true
+		
+		
