@@ -7,7 +7,7 @@ Being developed within the Godot Game Engine using the GDScript Programming Lang
 
 Game Functionalities:
 - Main Hub: Shops, NPC's, and the boat dock to go on a fishing expedition
-- Fishing Expedition: A duration of 'x' amount of minutes decided by the player. During the expedition, the player accumulates fish as a resource
+- Fishing Expedition: A duration of _x_ amount of minutes decided by the player. During the expedition, the player accumulates fish as a resource
 - Gameplay loop: Sell or trade the fish that the player collected for gold or cosmetics. Cosmetics include player and boat customization options.
 
 Future Implementations:
